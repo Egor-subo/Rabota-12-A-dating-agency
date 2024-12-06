@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rabota 12:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rabota_12_jar</output-path>
+    <root id="archive" name="Rabota 12.jar">
+      <element id="module-output" name="Rabota 12" />
+    </root>
+  </artifact>
+</component>
